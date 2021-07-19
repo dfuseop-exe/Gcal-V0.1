@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Gcal-V0.1/static/css/main.1635e87c.chunk.css",
-    "main.js": "/Gcal-V0.1/static/js/main.83df2521.chunk.js",
-    "main.js.map": "/Gcal-V0.1/static/js/main.83df2521.chunk.js.map",
+    "main.js": "/Gcal-V0.1/static/js/main.b3fec3f0.chunk.js",
+    "main.js.map": "/Gcal-V0.1/static/js/main.b3fec3f0.chunk.js.map",
     "runtime-main.js": "/Gcal-V0.1/static/js/runtime-main.a1c1fd5f.js",
     "runtime-main.js.map": "/Gcal-V0.1/static/js/runtime-main.a1c1fd5f.js.map",
     "static/js/2.977d2e6b.chunk.js": "/Gcal-V0.1/static/js/2.977d2e6b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a1c1fd5f.js",
     "static/js/2.977d2e6b.chunk.js",
     "static/css/main.1635e87c.chunk.css",
-    "static/js/main.83df2521.chunk.js"
+    "static/js/main.b3fec3f0.chunk.js"
   ]
 }
